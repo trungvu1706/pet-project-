@@ -13,7 +13,7 @@
     position: relative;
 }
 
-.wrapper-link {
+.wrapper-theme-black .wrapper-link {
     position: absolute;
     text-decoration: none;
     width: 100%;
@@ -43,7 +43,7 @@
     z-index: 1;
     top: 190px;
     left: 670px;
-    color: #2997ff;
+    color: #2467c5;
     text-decoration: none;
     font-size: 20px;
 }
@@ -54,4 +54,70 @@
 
 .unit-tittle i {
     font-size: 14px;
+}
+
+.wrapper .wrapper-theme-white {
+    background-image: url(images/hero_alt__f760z1x2tf2a_large_2x.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 760px;
+    position: relative;
+    margin-top: 13px;
+}
+
+.wrapper-theme-white .wrapper-link {
+    position: absolute;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    color: #1d1e20;
+    text-align: center;
+    line-height: 40px;
+    padding-top: 90px;
+}
+
+.wrapper .wrapper-theme-white-ipad-air {
+    background-image: url(images/ipad-air.jpg);
+    background-color: #fbfbfd;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 760px;
+    position: relative;
+    margin-top: 13px;
+}
+
+.wrapper-theme-white-ipad-air .wrapper-link {
+    position: absolute;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    color: #1d1e20;
+    text-align: center;
+    line-height: 40px;
+    padding-top: 70px;
+}
+
+.wrapper-theme-white-ipad-air .unit-link {
+    position: relative;
+    z-index: 1;
+    top: 170px;
+    left: 620px;
+    color: #2467c5;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.unit-link:hover {
+    text-decoration: underline;
+}
+
+.wrapper-theme-white-ipad-air .unit-link-buy {
+    padding-left: 40px;
 }
