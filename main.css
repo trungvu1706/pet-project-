@@ -4,6 +4,9 @@
     margin: 0;
 }
 
+
+/* iphone 12 pro theme */
+
 .wrapper .wrapper-theme-black {
     background-image: url(images/hero__dvsxv8smkkgi_large_2x.jpg);
     background-size: cover;
@@ -56,6 +59,9 @@
     font-size: 14px;
 }
 
+
+/* iphone 12 theme  */
+
 .wrapper .wrapper-theme-white {
     background-image: url(images/hero_alt__f760z1x2tf2a_large_2x.jpg);
     background-size: cover;
@@ -79,6 +85,9 @@
     line-height: 40px;
     padding-top: 90px;
 }
+
+
+/* the all new ipad air theme */
 
 .wrapper .wrapper-theme-white-ipad-air {
     background-image: url(images/ipad-air.jpg);
