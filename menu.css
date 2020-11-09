@@ -1,12 +1,9 @@
-* {
-    font-family: Arial, Helvetica, sans-serif;
-    box-sizing: border-box;
-    margin: 0;
-}
+/* menu css */
 
 .header-menu {
     max-width: 1440px;
     height: 48px;
+    line-height: 48px;
     position: fixed;
     top: 0;
     left: 0;
@@ -23,9 +20,11 @@
     align-items: center;
     margin: 0;
     background-color: #000000;
-    padding: 15px 25px;
+    padding: 0 25px;
     margin: 0 150px;
 }
+
+.header-menu .menu-bar ul li {}
 
 .menu-bar a {
     text-decoration: none;
@@ -33,6 +32,7 @@
     font-size: 1em;
     font-weight: 100;
     opacity: .8;
+    padding: 15px 0;
 }
 
 .menu-bar a:hover {
