@@ -11,6 +11,7 @@
     background-color: #000000;
     z-index: 2;
     display: inline-block;
+    backdrop-filter: blur(20px);
 }
 
 .header-menu .menu-bar {
@@ -23,8 +24,6 @@
     padding: 0 25px;
     margin: 0 150px;
 }
-
-.header-menu .menu-bar ul li {}
 
 .menu-bar a {
     text-decoration: none;

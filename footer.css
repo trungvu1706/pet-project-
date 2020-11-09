@@ -50,13 +50,13 @@
 
 .unit-list-link {
     list-style-type: none;
-    font-size: 13px;
+    font-size: 12px;
     margin-bottom: 13px;
     padding: 0;
 }
 
 .headline-list {
-    font-size: 13px;
+    font-size: 12px;
     padding-bottom: 10px;
     color: #1d1e20;
 }
@@ -70,7 +70,7 @@
 }
 
 .find-shop {
-    font-size: 13px;
+    font-size: 12px;
     border-bottom: 1px solid #d2d2d7;
     padding: 7px 0;
     color: #a5a5a9;
@@ -91,7 +91,7 @@
 }
 
 .footer-link-local {
-    font-size: 13px;
+    font-size: 12px;
     float: right;
     position: relative;
     top: -2px;
@@ -103,19 +103,19 @@
 }
 
 .footer-link .link-term {
-    font-size: 13px;
+    font-size: 12px;
     color: #636361;
 }
 
 .copy-right {
     color: #a5a5a9;
-    font-size: 13px;
+    font-size: 12px;
     float: left;
 }
 
 .footer-link {
     position: relative;
-    top: -2px;
+    top: -3px;
     left: 35px;
 }
 
