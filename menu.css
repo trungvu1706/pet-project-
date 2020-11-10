@@ -11,7 +11,6 @@
     background-color: #000000;
     z-index: 2;
     display: inline-block;
-    backdrop-filter: blur(20px);
 }
 
 .header-menu .menu-bar {
@@ -23,6 +22,7 @@
     background-color: #000000;
     padding: 0 25px;
     margin: 0 150px;
+    backdrop-filter: blur(20px);
 }
 
 .menu-bar a {
