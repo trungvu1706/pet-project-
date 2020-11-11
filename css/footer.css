@@ -93,7 +93,7 @@
 .local {
     float: right;
     position: relative;
-    top: -7px;
+    top: -2px;
 }
 
 .copy-right,
@@ -107,17 +107,21 @@
 
 .font-link {
     font-size: 13px;
-    text-align: center;
     color: #a5a5a9;
 }
 
 .border-right {
     border-right: 1px solid #a5a5a9;
     margin-top: 7px;
-    padding-right: 7px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
-.unit-policy .term {
+.last-link {
+    padding-left: 10px;
+}
+
+.unit-policy {
     position: relative;
     top: -2px;
 }
