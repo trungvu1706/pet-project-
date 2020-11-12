@@ -146,6 +146,7 @@
 
 .collection .apple-tv {
     background-image: url(../images/apple-tv-background.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: inherit;
     background-color: #fbfbfd;
