@@ -17,6 +17,7 @@
     cursor: pointer;
     top: 0;
     left: 0;
+    z-index: 1;
 }
 
 .unit-tittle {
@@ -35,6 +36,11 @@
     font-size: 24px;
     font-weight: 400;
     margin-top: 5px;
+}
+
+.unit-link {
+    position: relative;
+    z-index: 2;
 }
 
 .unit-link .learn-more {
